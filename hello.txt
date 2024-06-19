@@ -2,3 +2,5 @@ Hello!demoProject!
 my first changed!
 now hot-fix!
 iamMaster!
+iamhot-fix!
+
